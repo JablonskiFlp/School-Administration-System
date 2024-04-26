@@ -1,0 +1,9 @@
+﻿  Pupil.cpp
+  SchoolBoy.cpp
+  SchoolGirl.cpp
+  school.cpp
+C:\Users\filip\Desktop\Semestr 3\Programowanie Obiektowe\school\school\Worker.h(34,24): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'school.cpp')
+  
+  Generating Code...
+  school.vcxproj -> C:\Users\filip\Desktop\Semestr 3\Programowanie Obiektowe\school\x64\Debug\school.exe
